@@ -6,4 +6,4 @@ Standalone web-browser Tool used for estimating the logistical supply chain requ
 
 | Screenshot - Data Processed           | 
 :---------------------------------------------------:
-![](screenshot.png)
+![](screenshot.PNG)
